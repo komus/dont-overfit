@@ -546,6 +546,8 @@ FodyWeavers.xsd
 .idea/
 *.sln.iml
 
+s3bucket.py
+
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
